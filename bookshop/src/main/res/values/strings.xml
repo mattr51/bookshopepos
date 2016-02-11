@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">BookShop</string>
 
+    <!-- API Key for Google Books -->
+    <string name="key">&amp;key=AIzaSyDOAb7XF0T1Gws0Cp4QCXiGunUJGS8-Q8o</string>
+
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
     <string name="title_activity_login">Sign in</string>
